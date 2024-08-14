@@ -36,3 +36,9 @@ Some months, like August and October, show higher loss rates, suggesting a need 
 Item-Level Analysis:
 
 Specific items like Wuhu Green and Broccoli are leading in sales, but there may also be significant returns or losses associated with certain products.
+
+
+###  Recommendations
+Reduce Loss Rates: Focus on categories with high loss rates to improve profitability.
+Inventory Optimization: Adjust inventory based on sales trends to align with demand.
+Targeted Promotions: Boost sales during low-performing months through targeted marketin
